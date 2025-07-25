@@ -1,7 +1,7 @@
 # unquoted-service-paths
 This is a repository of powershell scripts that assist organizations in finding, flagging, and remediating unquoted service paths within their environment. The scripts can be used to identify if standard users have high-risk writable permissions in system or administrative only service paths. 
 
-### **Ensure open the file and change the output save location i.e., '$outputPath = "$env:USERPROFILE\DesiredLocation\"**
+### **Ensure to open the file and change the output save location i.e., '$outputPath = "$env:USERPROFILE\DesiredLocation\"**
 
 # Windows Unquoted Service Path Detection & Remediation Toolkit
 
